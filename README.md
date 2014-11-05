@@ -14,6 +14,6 @@ and put "jyny.zsh-theme" under
 /home/"username"/.oh-my-zsh/themes
 well done, enjoy
 
-##feature
+##Feature
+![alt tag](http://i.imgur.com/DyS3pDQ.png?1)
 
-http://i.imgur.com/DyS3pDQ.png?1
