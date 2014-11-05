@@ -1,7 +1,7 @@
 jyny.zsh-theme
 =======================
 
-**The cute oh-my-zsh theme
+**The cute oh-my-zsh theme**
 
 Install "oh-my-zsh" first  
 see setup https://github.com/robbyrussell/oh-my-zsh
