@@ -5,6 +5,8 @@ jyny.zsh-theme
 
 **This is the cute oh-my-zsh theme**
 
+##how to use
+
 Install "oh-my-zsh" first  
 see setup https://github.com/robbyrussell/oh-my-zsh
 
