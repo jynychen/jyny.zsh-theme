@@ -13,3 +13,7 @@ see setup https://github.com/robbyrussell/oh-my-zsh
 and put "jyny.zsh-theme" under  
 /home/"username"/.oh-my-zsh/themes
 well done, enjoy
+
+##feature
+
+http://i.imgur.com/DyS3pDQ.png?1
