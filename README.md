@@ -1,9 +1,10 @@
 jyny.zsh-theme
 =======================
 
-##about
+##Feature
 
 **This is a cute oh-my-zsh theme ！！**
+![alt tag](http://i.imgur.com/DyS3pDQ.png?1)
 
 ##how to use
 
@@ -14,6 +15,4 @@ and put "jyny.zsh-theme" under
 /home/"username"/.oh-my-zsh/themes
 well done, enjoy
 
-##Feature
-![alt tag](http://i.imgur.com/DyS3pDQ.png?1)
 
