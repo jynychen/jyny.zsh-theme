@@ -3,7 +3,7 @@ jyny.zsh-theme
 
 ##about
 
-**This is the cute oh-my-zsh theme ！！**
+**This is a cute oh-my-zsh theme ！！**
 
 ##how to use
 
