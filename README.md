@@ -3,8 +3,8 @@ jyny.zsh-theme
 
 ##Feature
 
-**This is a cute oh-my-zsh theme ！！**
-**含顏文字 注意!!**
+**This is a cute oh-my-zsh theme ！！**   
+**含顏文字 注意 ！！**
 ![alt tag](http://i.imgur.com/DyS3pDQ.png?1)
 
 ##how to use
